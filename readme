@@ -1,0 +1,13 @@
+windows配置方法：
+1，安装Python 2.7和pip
+2, 安装xml解析器
+pip install beautifulsoup
+3，安装相关依赖库
+cd utils
+sudo python setup.py install
+4，配置ANDROID_HOME环境变量
+ANDROID_HOME=D:\Android\sdk
+并添加至系统PATH路径
+
+注意：手机驱动装完后一定卸载掉手机管家，360这些软件。
+这些软件会严重干扰adb的执行，导致命令执行失败。

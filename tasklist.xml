@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<hierarchy rotation="0">
+<!-- <case name="D:\work\ux-script\launchtime\Settings_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Phone_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\MMS_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Gallery_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Contacts_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Camera_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+
+<case name="D:\work\ux-script\launchtime\Email_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Filemanager_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Games_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Lesports_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Letv_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Letvlive_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+
+<case name="D:\work\ux-script\launchtime\Letvshop_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Music_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Note_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Remotecontrol_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\SuperManager_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+
+<case name="D:\work\ux-script\launchtime\Tianqi_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Videoplayer_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\Wallet_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case> -->
+
+<case name="D:\work\ux-script\launchtime\App_launch.py" time="5" repeat="5" warm_launch="false" skip="true"></case>
+<case name="D:\work\ux-script\launchtime\ColdBoot_time.py" time="5" repeat="5" skip="false"></case>
+<case name="D:\work\ux-script\launchtime\Display_turn_on.py" time="5" repeat="5" skip="false"></case>
+</hierarchy>
